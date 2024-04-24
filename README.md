@@ -1,0 +1,2 @@
+# KinalStream
+Plataforma de streaming
